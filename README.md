@@ -1,1 +1,2 @@
-# listas-en-python-hachi225
+## Pracraca de listas en python  
+# -hachi225
